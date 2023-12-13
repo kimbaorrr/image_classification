@@ -3,7 +3,7 @@ How can i pull this project ?
 
 - You can pull my project from Github with command:
 
-  <code>git pull...</code>
+  <code>git pull kimbaorrr/image_classification</code>
 
 Why are both directory datasets & models empty ?
 ----------------------
@@ -13,4 +13,4 @@ Why are both directory datasets & models empty ?
 How can i supplement them ?
 ----------------------
 
-- You can download files here 
+- You can download files <a href="#" target="_blank">here</a> 
